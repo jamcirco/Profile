@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 
-# [@vhpx](https://github.com/jamcirco) / About me
+# [@lqn](https://github.com/jamcirco) / About me
 
 <p align="center">
     <a href="#">
