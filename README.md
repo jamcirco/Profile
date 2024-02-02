@@ -1,18 +1,17 @@
 <!-- markdownlint-disable MD033 -->
 
-# [@vhpx](https://github.com/vhpx) / About me
+# [@vhpx](https://github.com/jamcirco) / About me
 
 <p align="center">
     <a href="#">
-        <img src="https://raw.githubusercontent.com/vhpx/vhpx/master/images/background.png">
+        <img src="[https://raw.githubusercontent.com/vhpx/vhpx/master/images/background.png](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSj-VOfTOcfBwnQGSnF9JkY3ugpuGI6LhDantSGhksCM8VsOHT-)">
     </a>
 </p>
 
 <h1 align="center">Hi 👋, I'm
-    <a href="https://www.vohoangphuc.com">Võ Hoàng Phúc</a>.
+    <a href="https://www.luuquocnhat.com">Luu Quoc Nhat</a>.
 </h1>
-<h3 align="center">A passionate fullstack developer from
-    <a href="https://en.wikipedia.org/wiki/Vietnam">Vietnam</a>.
+<h3 align="center">Founder of <a href="http://onnison.com">Onnision</a> - A Centralized Art Commission Platform
 </h3>
 
 ## 🏆GitHub Trophies
@@ -25,25 +24,20 @@
 
 ## About me
 
-- 🔭 I’m currently working on **[Tuturuuu](https://tuturuuu.com)**.
+- 🔭 I’m currently working on **[Onnison](https://onnison.com)**.
 
-- ✨ Adopting **[Supabase](https://supabase.com/)** and **[Firebase](https://firebase.google.com/)** as the primary backend provider.
+- 💬 Ask me about **[React.js](https://reactjs.org/)**, **[MongoDB](https://mongodb.org/)**, and **[Tailwind CSS](https://tailwindcss.com/)**.
 
-- 💬 Ask me about **[Flutter](https://flutter.dev/)**, **[React.js](https://reactjs.org/)**, **[Next.js](https://nextjs.org/)** and **[Tailwind CSS](https://tailwindcss.com/)**.
-
-- 📫 How to reach me **contact@vohoangphuc.com** / **vohoangphuc@tuturuuu.com**.
+- 📫 How to reach me **nhatluudev@gmail.com** / **support@onnison.com**.
 
 ## Connect with me
 
 <p align="left">
-    <a href="https://twitter.com/vohoangphuc_" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vohoangphuc_ on Twitter" height="30" width="40" />
+    <a href="https://www.facebook.com/profile.php?id=100011559310202" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@luuquocnhat on Facebook" height="30" width="40" />
     </a>
-    <a href="https://linkedin.com/in/vohoangphuc" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@vohoangphuc on LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://www.leetcode.com/vohoangphuc" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@vohoangphuc on LeetCode" height="30" width="40" />
+    <a href="https://www.linkedin.com/in/nhatluuquoc/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@luuquocnhat on LinkedIn" height="30" width="40" />
     </a>
 </p>
 
@@ -136,8 +130,5 @@
     </a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-    </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
     </a>
 </p>
